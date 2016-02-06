@@ -48,3 +48,7 @@ Feel free to fork from [dogepartychain-node](https://github.com/sgsshankar/dogep
 ### Issues
 
 https://github.com/sgsshankar/dogepartychain-node/issues
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sgsshankar/dogepartychain-node/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
